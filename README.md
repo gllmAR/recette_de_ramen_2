@@ -1,7 +1,13 @@
 # recette_de_ramen_2
 le retour de la soupe ramen 
 
-![logiciel vlc1](medias/vlc_1.gif)
+## images en boucles
+### gif
+* ![logiciel vlc1](medias/vlc_1.gif)
+### png seq
+* ![png seq ](medias/vlc_png.png)
+### webp
+* ![web p](medias/vlc_web_p.webp)
 
 ## titre 2 A
 
