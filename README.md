@@ -6,6 +6,16 @@ le retour de la soupe ramen
 
 petite introduction
 
+```html
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>HTML 5 Boilerplate</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+```
+
 ### titre 3 a
 
 ici je vais avoir un premier sujet
@@ -23,6 +33,10 @@ le troisième
 test de code 
 ```
 
+```
+je pourrais du code sur une première ligne comme ça
+et une deuxième ligne comme ça aussi 
+```
 ### titre 3 a
 et 
 ### titre 3 b 
