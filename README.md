@@ -2,7 +2,7 @@
 le retour de la soupe ramen 
 
 ## images en boucles
-### gif
+### gifs
 * ![logiciel vlc1](medias/vlc_1.gif)
 ### png seq
 * ![png seq ](medias/vlc_png.png)
